@@ -1,3 +1,15 @@
+atcoder-tools==1.1.7.1
+beautifulsoup4==4.9.3
+certifi==2020.12.5
+chardet==3.0.4
+colorama==0.4.4
 Cython==0.29.21
+idna==2.10
+Jinja2==2.11.2
+MarkupSafe==1.1.1
 numpy==1.19.4
+requests==2.25.0
 scipy==1.5.4
+soupsieve==2.1
+toml==0.10.2
+urllib3==1.26.2
